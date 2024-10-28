@@ -1,0 +1,38 @@
+Index(['Fall1', 'Spring1', 'Summer1', 'Fall2', 'Spring2', 'Program',
+       'Starting_Semester'],
+      dtype='object')
+        Fall1    Spring1  ...                     Program Starting_Semester
+1   CYBR 6126  CYBR 6167  ...         CYBR -Cyber Defense              Fall
+2   CPSC 6157  CYBR 6128  ...         CYBR -Cyber Defense              Fall
+3    Elective  CYBR 6226  ...         CYBR -Cyber Defense              Fall
+4         NaN  CYBR 6126  ...         CYBR -Cyber Defense            Spring
+5         NaN  CYBR 6226  ...         CYBR -Cyber Defense            Spring
+6         NaN  CPSC 6157  ...         CYBR -Cyber Defense            Spring
+8   CYBR 6126  CYBR 6228  ...           CYBR - Management              Fall
+9        MSOL  CYBR 6167  ...           CYBR - Management              Fall
+10  CPSC 6157   Elective  ...           CYBR - Management              Fall
+11        NaN  CYBR 6126  ...           CYBR - Management            Spring
+12        NaN  CPSC 6157  ...           CYBR - Management            Spring
+13        NaN   Elective  ...           CYBR - Management            Spring
+15  CPSC 6119  CPSC 6127  ...         ACS -  Software Dev              Fall
+16  CPSC 6109  CPSC 6185  ...         ACS -  Software Dev              Fall
+17  CPSC 6177  CPSC 6179  ...         ACS -  Software Dev              Fall
+18        NaN  CPSC 6109  ...         ACS -  Software Dev            Spring
+19        NaN  CPSC 6185  ...         ACS -  Software Dev            Spring
+20        NaN  CYBR 6126  ...         ACS -  Software Dev            Spring
+22  CPSC 6114  CPSC 6185  ...  ACS -  AI and Data Science              Fall
+23  CPSC 6119  CPSC 6124  ...  ACS -  AI and Data Science              Fall
+24  CYBR 6126  CPSC 6147  ...  ACS -  AI and Data Science              Fall
+25        NaN  CPSC 6109  ...  ACS -  AI and Data Science            Spring
+26        NaN  CPSC 6185  ...  ACS -  AI and Data Science            Spring
+27        NaN   Elective  ...  ACS -  AI and Data Science            Spring
+29  CPSC 6119   Elective  ...              ACS -  General              Fall
+30  CPSC 6109  CPSC 6185  ...              ACS -  General              Fall
+31  CPSC 6157  CPSC 6127  ...              ACS -  General              Fall
+32        NaN  CPSC 6185  ...              ACS -  General            Spring
+33        NaN  CPSC 6109  ...              ACS -  General            Spring
+34        NaN  CPSC 6127  ...              ACS -  General            Spring
+35        NaN        NaN  ...              ACS -  General            Spring
+36        NaN   Option I  ...              ACS -  General            Spring
+
+[32 rows x 7 columns]

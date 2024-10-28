@@ -1,0 +1,397 @@
+Columbus State University
+
+Nukala, Akshith - 909486556
+
+Columbus State University
+
+Student name
+
+Nukala, Akshith
+
+Student ID
+
+909486556
+
+Degree
+
+Master of Science
+
+Audit date
+
+10/19/2024  6:54 AM
+
+Degree progress
+
+90%
+
+Credits
+
+Overall GPA
+4.00
+
+Level Graduate   Classification Graduate - Degree   Major Applied Computer Science   Program Applied Computer Science,
+
+MS   Concentration Software Development, SS12   College Turner College of Bus & CS   Overall GPA  4.00   Institutional GPA  4.00   Earned
+
+Credits  18   
+
+Degree in Master of Science
+
+INCOMPLETE
+
+Credits required: 30
+
+Credits applied:  27
+
+Catalog year:  2023- 2024
+
+GPA: 4.00
+
+Total Credit Rule
+
+12 Credits must be taken in Residence
+
+Graduation Application Needed
+
+You meet the minimum 3.00 GPA requirement
+
+Still needed: 30 credits are required for the Major. You currently have 27, you still
+
+need 3 more credits.
+
+Graduation Application Needed
+
+Still needed:
+The deadline for submitting your application is dependent upon your graduation term. Spring-
+January 30; Summer- May 30; Fall- August 30. 
+
+Major Requirements
+
+Still needed:
+
+See Major in Applied Computer Science MS section
+
+Blocks included in this block
+Major in Applied Computer Science MS
+Conc in Software Development
+
+Major in Applied Computer Science MS
+
+INCOMPLETE
+
+Credits required: 18
+
+Credits applied:  27
+
+Catalog year:  2023- 2024
+
+GPA: 4.00
+
+Course
+
+Title
+
+Grade
+
+Credits
+
+Term
+
+Repeated
+
+Area 1
+
+CPSC 6109- Algorithms Analysis and Design
+
+CPSC 6109
+
+Algorithms Analysis and Design
+
+CURR 
+
+(3)
+
+Fall 2024
+
+CPSC 6119- Object-Oriented Development
+
+CPSC 6119
+
+Obj-Orient Dev w/Components
+
+A 
+
+3
+
+Fall 2023
+
+CYBR 6126- Intro to Cybersecurity
+
+CYBR 6126
+
+Introduction to Cybersecurity
+
+CURR 
+
+(3)
+
+Fall 2024
+
+CPSC 6185- Intelligent Systems
+
+CPSC 6185
+
+Intelligent Systems
+
+A 
+
+3
+
+Spring 2024
+
+Concentration Required
+
+Still needed:
+
+See Conc in Software Development section
+
+Area 3
+
+Program Electives
+
+CPSC 6985
+
+Research and Thesis
+
+CURR 
+
+(3)
+
+Fall 2024
+
+CPSC 6121
+
+Data Science and Big Data
+
+A 
+
+3
+
+Fall 2023
+
+ 
+ 
+ 
+ 
+ 
+ 
+Columbus State University
+
+Nukala, Akshith - 909486556
+
+Area 4
+
+Exit Exam
+
+Still needed:
+
+1 Class in CPSC 6000
+
+Thesis submitted to CSU Library
+
+Still needed:
+
+1 Class in PSEUDO @
+
+Blocks included in this block
+Conc in Software Development
+
+Conc in Software Development
+
+INCOMPLETE
+
+Credits required: 12
+
+Credits applied:  9
+
+Catalog year:  2023- 2024
+
+GPA: 4.00
+
+Unmet conditions for this set of requirements:
+
+18 credits are required.  You currently have 9,  you still need 3 more credits.
+
+Course
+
+Title
+
+Grade
+
+Credits
+
+Term
+
+Repeated
+
+AREA 2: PROGRAM CONCENTRATION
+
+CPSC 6127- Contemporary Issues in Database
+Mgmt Sysyems
+
+CPSC 6127
+
+Contmpry Is In DB Man Sys
+
+CPSC 6175- Web Engineering and
+Technologies
+
+CPSC 6175 Web Engineering/Technolog
+
+CPSC 6177- Software Design and Development CPSC 6177
+
+Software Design, Development
+
+A 
+
+A 
+
+A 
+
+3
+
+Spring 2024
+
+3
+
+Spring 2024
+
+3
+
+Fall 2023
+
+CPSC 6179- Software Project Planning and
+Management
+
+Still needed:
+
+1 Class in CPSC 6179
+
+In-progress
+
+Credits applied: 9
+
+Classes applied: 3
+
+Course
+
+Title
+
+Grade
+
+Credits
+
+Term
+
+Repeated
+
+CPSC 6109
+
+Algorithms Analysis and Design
+
+CPSC 6985
+
+Research and Thesis
+
+CYBR 6126
+
+Introduction to Cybersecurity
+
+CURR 
+
+CURR 
+
+CURR 
+
+(3)
+
+(3)
+
+(3)
+
+Fall 2024
+
+Fall 2024
+
+Fall 2024
+
+Notes
+
+Description
+
+I released the advising hold on your account so you can go ahead and register for CYBR 6126 and
+CPSC 6125. Please note that with CPSC 6125 you fulfill the two electives required by your degree.
+If you plan to do an independent study or thesis, we will need to adjust your schedule, so you don't
+take extra courses. Let me know if/how your plans change after you hear back from Dr. Abid. Please
+note that you have two required courses remaining: CPSC 6179 and CPSC 6109. The plan is that
+you will take these in spring 2025 along with CPSC 6000.
+
+Student was advised for upcoming semester and advisor. For fall 2023, student will - Register for
+CPSC 6177 - Email Dr. Abid for approval to take CPSC 6121 without taking CPSC 6114 (please
+copy me in your email) - Get on the waitlist for CPSC 6119. (The department asked for an increase
+in the capacity of the course so hopefully you will be able to take the course in the fall). Please note
+that because of your visa status, only one of your courses can be fully online. The section number
+will start with V for " virtual" (e.g. V01) for fully online sections.
+
+Created on
+
+Created by
+
+03/22/2024
+
+Peker, Yesem K
+
+08/04/2023
+
+Peker, Yesem K
+
+Legend
+
+Complete
+
+Complete (with classes in-progress)
+
+Prerequsite
+
+(R)
+
+Repeated class
+
+Not complete
+
+Nearly complete - see advisor
+
+@
+
+Any course number
+
+ 
+ 
+ 
+ 
+ 
+Columbus State University
+
+Disclaimer
+
+Nukala, Akshith - 909486556
+
+You are encouraged to use this degree audit report as a guide when planning your progress toward completion of the above requirements. Your academic advisor or the Registrar's Office may be
+contacted for assistance in interpreting this report. This audit is not your academic transcript and it is not official notification of completion of degree or certificate requirements. Please contact the
+Registrar's Office regarding this degree audit report, your official degree/certificate completion status, or to obtain a copy of your academic transcript.
+
+Ellucian Degree Works - © Copyright 1995-2024 Ellucian Company L.P. and its affiliates
+
+ 
+ 
+

@@ -1,0 +1,74 @@
+course_number,course_title,prereq_codes,restrictions,prerequisites
+CPSC 1105,Introduction to Computing Principles and Technology,,,
+CPSC 1301K,Computer Science I,,,
+CPSC 1302K,Computer Science II,CPSC 1301 or CPSC 1301H or CPSC 1301K or CSCI 1301K or CPSC 1301I or CSCI 1301 and MATH 1113,,(CPSC 1301 with a minimum grade of C or CPSC 1301H with a minimum grade of C or CPSC 1301K with a minimum grade of C or CSCI 1301K with a minimum grade of C or CPSC 1301I with a minimum grade of C or CSCI 1301 with a minimum grade of C) and MATH 1113 (may be taken concurrently) with a minimum grade of C
+CPSC 1555,Selected Topics in Computer Science,,,
+CPSC 2105,Computer Organization,CPSC 1301 or CPSC 1301H or CPSC 1301K or CPSC 1301I and MATH 2125,,(CPSC 1301 with a minimum grade of C or CPSC 1301H with a minimum grade of C or CPSC 1301K with a minimum grade of C or CPSC 1301I with a minimum grade of C) and MATH 2125 (may be taken concurrently) with a minimum grade of C
+CPSC 2108,Data Structures,CPSC 1302 or CPSC 1302H or CPSC 1302K and MATH 2125,,(CPSC 1302 with a minimum grade of C or CPSC 1302H with a minimum grade of C or CPSC 1302K with a minimum grade of C) and MATH 2125 with a minimum grade of C
+CPSC 2115,Information Technology Fundamentals,,,
+CPSC 2125,Internet Programming,CPSC 1301 or CPSC 1301H or CPSC 1301K or CPSC 1301I,,CPSC 1301 with a minimum grade of C or CPSC 1301H with a minimum grade of C or CPSC 1301K with a minimum grade of C or CPSC 1301I with a minimum grade of C
+CPSC 2555,Selected Topics in Computer Science,CPSC 1301K or CPSC 1301 or CPSC 1301H or CPSC 1301I or CPSC 1301X,,CPSC 1301K with a minimum grade of C or CPSC 1301 with a minimum grade of C or CPSC 1301H with a minimum grade of C or CPSC 1301I with a minimum grade of C or CPSC 1301X with a minimum grade of C
+CPSC 3105,Digital Multimedia Development,CPSC 2125 or CPSC 2125H,,CPSC 2125 with a minimum grade of C or CPSC 2125H with a minimum grade of C
+CPSC 3111,COBOL Programming,CPSC 1302 or CPSC 1302H or CPSC 1302K,,CPSC 1302 with a minimum grade of C or CPSC 1302H with a minimum grade of C or CPSC 1302K with a minimum grade of C
+CPSC 3116,z/OS and JCL,CPSC 1302 or CPSC 1302H or CPSC 1302K,,CPSC 1302 with a minimum grade of C or CPSC 1302H with a minimum grade of C or CPSC 1302K with a minimum grade of C
+CPSC 3118,Graphical User Interface Development,CPSC 1302 or CPSC 1302H or CPSC 1302I,,CPSC 1302 with a minimum grade of C or CPSC 1302H with a minimum grade of C or CPSC 1302I with a minimum grade of C
+CPSC 3121,Assembly Language Programming I,CPSC 2105 or CPSC 2105H and CPSC 1302 or CPSC 1302H or CPSC 1302K,,(CPSC 2105 with a minimum grade of C or CPSC 2105H with a minimum grade of C) and (CPSC 1302 with a minimum grade of C or CPSC 1302H with a minimum grade of C or CPSC 1302K with a minimum grade of C)
+CPSC 3125,Operating Systems,CPSC 2105 and CPSC 2108 or CPSC 2105H and CPSC 2108,,(CPSC 2105 with a minimum grade of C and CPSC 2108 with a minimum grade of C) or (CPSC 2105H with a minimum grade of C and CPSC 2108 with a minimum grade of C)
+CPSC 3131,Database Systems I,CPSC 1302 or CPSC 1302K or CPSC 1302H,,CPSC 1302 with a minimum grade of C or CPSC 1302K with a minimum grade of C or CPSC 1302H with a minimum grade of C
+CPSC 3137,Natural Language Processing and Text Mining,CPSC 1301K,,CPSC 1301K with a minimum grade of C
+CPSC 3156,Transaction Processing,CPSC 3111,,CPSC 3111 with a minimum grade of C
+CPSC 3165,Professionalism in Computing,,Freshman or Sophomore students may not enroll.,
+CPSC 3175,Object-Oriented Design,CPSC 2108,,CPSC 2108 with a minimum grade of C
+CPSC 3415,Information Technology (IT) Practicum,,,
+CPSC 3555,Selected Topics in Computer Science,CPSC 1302 or CPSC 1302K or CPSC 1302H,Freshman students may not enroll.,CPSC 1302 with a minimum grade of C or CPSC 1302K with a minimum grade of C or CPSC 1302H with a minimum grade of C
+CPSC 4000,Baccalaureate Survey,,,
+CPSC 4111,Game and Simulation Programming I,CPSC 3118 and CPSC 3175,,(CPSC 3118 with a minimum grade of C and CPSC 3175 with a minimum grade of C)
+CPSC 4112,Game and Simulation Programming II,CPSC 4111 and CPSC 4113,,(CPSC 4111 with a minimum grade of C and CPSC 4113 (may be taken concurrently) with a minimum grade of C)
+CPSC 4113,Game Jam,CPSC 4111 and CPSC 4112,,(CPSC 4111 with a minimum grade of C and CPSC 4112 (may be taken concurrently) with a minimum grade of C)
+CPSC 4115,Algorithms,CPSC 2108 and MATH 5125U,,CPSC 2108 with a minimum grade of C and MATH 5125U with a minimum grade of C
+CPSC 4121,Robotics Programming I,CPSC 1302 or CPSC 1302H,Freshman students may not enroll.,CPSC 1302 with a minimum grade of C or CPSC 1302H with a minimum grade of C
+CPSC 4122,Robotics Programming II,CPSC 4121,Freshman students may not enroll.,CPSC 4121 with a minimum grade of C
+CPSC 4125,Server-Side Web Development,CPSC 2125 and CPSC 3131,,(CPSC 2125 with a minimum grade of C and CPSC 3131 with a minimum grade of C)
+CPSC 4130,Mobile Computing,CPSC 3175,,CPSC 3175 with a minimum grade of C
+CPSC 4131,Full Stack Web Development,CPSC 4125,,CPSC 4125 with a minimum grade of C
+CPSC 4132,Web Development Projects,CPSC 4125 or CPSC 4131,,CPSC 4125 with a minimum grade of C or CPSC 4131 with a minimum grade of C
+CPSC 4135,Programming Languages,CPSC 3175,,CPSC 3175 with a minimum grade of C
+CPSC 4138,Advanced Database Systems,CPSC 3131,,CPSC 3131 with a minimum grade of C
+CPSC 4145,Computer Graphics,CPSC 3175,,CPSC 3175 with a minimum grade of C
+CPSC 4148,Theory of Computation,CPSC 4115 or CPSC 5115U,,CPSC 4115 with a minimum grade of C or CPSC 5115U with a minimum grade of C
+CPSC 4155,Computer Architecture,CPSC 1302 or CPSC 1302H or CPSC 1302K and CPSC 2105,,(CPSC 1302 with a minimum grade of C or CPSC 1302H with a minimum grade of C or CPSC 1302K with a minimum grade of C) and CPSC 2105 with a minimum grade of C
+CPSC 4157,Computer Networks,CPSC 2108,,CPSC 2108 with a minimum grade of C
+CPSC 4175,Software Engineering,CPSC 3175,,CPSC 3175 with a minimum grade of C
+CPSC 4176,Senior Software Engineering Project,CPSC 4175,,CPSC 4175 with a minimum grade of C
+CPSC 4185,Artificial Intelligence and Machine Learning,CPSC 2108,,CPSC 2108 with a minimum grade of C
+CPSC 4205,IT Senior Capstone,,Enrollment limited to Senior students.,
+CPSC 4505,Undergraduate Research,CPSC 2108,Enrollment limited to students in the Department Prerequisite college.,CPSC 2108 with a minimum grade of C
+CPSC 4555,Selected Topics in Computer Science,CPSC 2108,Freshman or Sophomore students may not enroll.,CPSC 2108 with a minimum grade of C
+CPSC 4698,Internship,,Freshman or Sophomore students may not enroll.,
+CPSC 4899,Independent Study,,Freshman or Sophomore students may not enroll.,
+CPSC 6000,Graduate Exit Examination in Computer Science,,Enrollment is limited to Graduate Level level students.,
+CPSC 6103,Computer Science Principles for Teachers,,Enrollment is limited to Graduate Level level students.,
+CPSC 6105,Fundamental Principles of Computer Science,,Enrollment is limited to Graduate Level level students.,
+CPSC 6106,Fundamentals of Computer Programming and Data Structures,,Enrollment is limited to Graduate Level level students.,
+CPSC 6107,Survey of Modeling and Simulation,,Enrollment is limited to Graduate Level level students.,
+CPSC 6109,Algorithms Analysis and Design,,Enrollment is limited to Graduate Level level students.,
+CPSC 6114,Applied Machine Learning,,Enrollment is limited to Graduate Level level students.,
+CPSC 6119,Object-Oriented Development,,Enrollment is limited to Graduate Level level students.,
+CPSC 6121,Data Science and Big Data Analytics,CPSC 6114,Enrollment is limited to Graduate Level level students.,CPSC 6114 with a minimum grade of C
+CPSC 6124,Deep Learning,CPSC 6114,Enrollment is limited to Graduate Level level students.,CPSC 6114 with a minimum grade of C
+CPSC 6125,Operating Systems Design and Implementation,,Enrollment is limited to Graduate Level level students.,
+CPSC 6127,Contemporary Issues in Database Management Systems,,Enrollment is limited to Graduate Level level students.,
+CPSC 6136,Human Aspects of Cybersecurity,CPSC 6126,Enrollment limited to students major in Cybersecurity Management or Applied Computer Science.Enrollment is limited to Graduate Level level students.,CPSC 6126 with a minimum grade of C
+CPSC 6138,Mobile Systems and Applications,CPSC 6119,Enrollment is limited to Graduate Level level students.,CPSC 6119 with a minimum grade of C
+CPSC 6147,Data Visualization and Presentation,,Enrollment is limited to Graduate Level level students.,
+CPSC 6155,Advanced Computer Architecture,,Enrollment limited to students major in Applied Computer Science.Enrollment is limited to Graduate Level level students.,
+CPSC 6157,Network and Cloud Management,,Enrollment limited to students major in Cybersecurity Management or Applied Computer Science.Enrollment is limited to Graduate Level level students.,
+CPSC 6175,Web Engineering and Technologies,,Enrollment limited to students major in Applied Computer Science.Enrollment is limited to Graduate Level level students.,
+CPSC 6177,Software Design and Development,,Enrollment limited to students major in Applied Computer Science.Enrollment is limited to Graduate Level level students.,
+CPSC 6179,Software Project Planning and Management,,Enrollment limited to students major in Applied Computer Science.Enrollment is limited to Graduate Level level students.,
+CPSC 6185,Intelligent Systems,,Enrollment is limited to Graduate Level level students.,
+CPSC 6555,Selected Topics in Computer Science,,Enrollment limited to students major in Applied Computer Science.Enrollment is limited to Graduate Level level students.,
+CPSC 6698,Graduate Internship in Computer Science,,Enrollment is limited to Graduate Level level students.,
+CPSC 6899,Independent Study in Computer Science,,Enrollment is limited to Graduate Level level students.,
+CPSC 6985,Research and Thesis,,Enrollment limited to students major in Cybersecurity Management or Applied Computer Science.Enrollment is limited to Graduate Level level students.,
+CPSC 6986,Thesis Defense,,Enrollment limited to students in the Department Prerequisite college.,

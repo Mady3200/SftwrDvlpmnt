@@ -1,0 +1,67 @@
+Student Name: Balusu, Dheer Madhav
+Student ID: 909488487
+Degree: Master of Science
+Audit Date: 10/22/2024  6:54 AM
+Degree Progress: None
+Overall GPA: 3.00
+Level: Graduate
+Classification: Graduate - Degree
+Major: Applied Computer Science
+Program: Applied Computer Science, MS
+Concentration: Software Development, SS12
+College: Turner College of Bus & CS
+Overall GPA2: 3.00
+Institutional GPA: 3.00
+Credits Earned: 18
+Credits Required: 30
+Credits Applied: 30
+Catalog Year: 2023- 2024
+GPA: 3.00
+Total Credit Rule: 12 Credits must be taken in Residence
+Graduation Application Needed: Still needed:
+Credits Required for Major: None
+Current Credits: None
+Credits Still Needed: None
+Still Needed for Graduation: Graduation Application Needed
+ 
+The deadline for submitting your application is dependent upon your graduation term. Spring-January
+30; Summer- May 30; Fall- August 30. 
+You meet the minimum 3.00 GPA requirement
+Still Needed for Major: See Major in Applied Computer Science MS section
+Blocks: ['Major in Applied Computer Science MS', 'Conc in Software Development']
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Major in Applied Computer Science MS
+****************************************************************************************************
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Conc in Software Development
+----------------------------------------------------------------------------------------------------
+Area 1
+CPSC 6109 Spring 2024 B 3
+CPSC 6119 Fall 2024 CURR 3
+CYBR 6126 Spring 2024 A 3
+ENGR 5161G Fall 2023 B 3
+----------------------------------------------------------------------------------------------------
+Area 3
+ENGR 5176G Fall 2023 B 3
+ENGR 5236G Fall 2023 C 3
+----------------------------------------------------------------------------------------------------
+Area 4
+CPSC 6000 None None None
+----------------------------------------------------------------------------------------------------
+AREA 2: PROGRAM CONCENTRATION
+CPSC 6127 Spring 2025 CURR 3
+CPSC 6175 Spring 2024 B 3
+CPSC 6177 Fall 2024 CURR 3
+CPSC 6179 Spring 2025 CURR 3
+****************************************************************************************************
+('CPSC 6109', ['Spring 2024', 'B', '3'])
+('CPSC 6119', ['Fall 2024', 'CURR', '3'])
+('CYBR 6126', ['Spring 2024', 'A', '3'])
+('ENGR 5161G', ['Fall 2023', 'B', '3'])
+('ENGR 5176G', ['Fall 2023', 'B', '3'])
+('ENGR 5236G', ['Fall 2023', 'C', '3'])
+('CPSC 6000', ['None', 'None', 'None'])
+('CPSC 6127', ['Spring 2025', 'CURR', '3'])
+('CPSC 6175', ['Spring 2024', 'B', '3'])
+('CPSC 6177', ['Fall 2024', 'CURR', '3'])
+('CPSC 6179', ['Spring 2025', 'CURR', '3'])
