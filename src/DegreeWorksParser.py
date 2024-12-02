@@ -1,3 +1,5 @@
+# from DegreeWorksParser import parse_degreeworks
+
 # read pdf to text
 import re
 import fitz
@@ -213,7 +215,7 @@ def parse_degreeworks(pdfpath,resultsprint,debug):
         for i,area in enumerate(area_codes):
             if debug or resultsprint:
                 print('-'*100)
-                print(area)
+                print("D!",area)
             area_start = blktext.find(area_codes[i])
             if debug:
                 print(f"Debug - Area {i} start index: {area_start}")
@@ -252,7 +254,7 @@ def parse_degreeworks(pdfpath,resultsprint,debug):
                     print(course_blktext)
                 if debug or resultsprint:
                     print(course_code.strip(), term.strip(), grade.strip(), credits.strip())
-                courses_info[course_code.strip()] = [term.strip(), grade.strip(), credits.strip()]
+                courses_info[course_code.strip()] = [term.strip(), grade.strip(), credits.strip(),area]
                     
         if len(area_codes) == 0:
             course_codes = re.findall(r'[A-Z]{4}\s+\d{4}[A-Z]?\s+', blktext)
@@ -277,23 +279,10 @@ def parse_degreeworks(pdfpath,resultsprint,debug):
                     print(course_blktext)
                 if debug or resultsprint:
                     print(course_code.strip(), term.strip(), grade.strip(), credits.strip())
-                courses_info[course_code.strip()] = [term.strip(), grade.strip(), credits.strip()]
+                courses_info[course_code.strip()] = [term.strip(), grade.strip(), credits.strip(),'None']
         if debug or resultsprint:
             print('*'*100)
 
     print(*courses_info.items(), sep='\n')
 
     return raw_text,student_info, courses_info
-
-if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description='DegreeWorks Parser')
-    parser.add_argument('--alldebug', action='store_true', help='Enable debug mode')
-    parser.add_argument('--pdfpath', type=str, help='Path to the PDF file', default=r"..\inputs_new\degreeworks.pdf")
-    # resultsprint
-    parser.add_argument('--resultsprint', action='store_true', help='Enable resultsprint mode')
-    args = parser.parse_args()
-    debug = args.alldebug
-    pdfpath = args.pdfpath
-    resultsprint = args.resultsprint
-    print(debug,pdfpath,resultsprint)
-    parse_degreeworks(pdfpath,resultsprint,debug)
